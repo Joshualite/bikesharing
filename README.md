@@ -8,7 +8,7 @@ A work was carried out on a bicycle service located in New York City, the databa
  
 Software: Python , Tableau
 
-link : [link to dashboard](https://prod-useast-b.online.tableau.com/#/site/joshualiteathotmailcom/workbooks/336166?:origin=card_share_link)
+link : [link to dashboard](https://public.tableau.com/app/profile/josue.emmanuel.aviles.ledezma/viz/BikeSharingAnalysis_16405687851390/Historia1)
 
 ## Results
 
